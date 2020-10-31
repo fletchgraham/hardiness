@@ -4,7 +4,7 @@
 
 [See the Notebook](hardiness.ipynb)
 
-![](emnt_2019.png)
+![](img/emnt_2019.png)
 
 [See the notebook for getting the data](grab_data.ipynb)
 
