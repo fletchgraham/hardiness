@@ -4,10 +4,10 @@
 
 ## Notebooks
 
-- [Experiments with Basemap](hardiness_basemap.ipynb)
-- [Experiments with Plotly Contour](hardiness_plotly_contour.ipynb)
-- [Experiments with Mapbox](hardiness_mapbox_scatter.ipynb)
-- [Getting the data](grab_data.ipynb)
+1. [Getting the data](grab_data.ipynb)
+1. [Experiments with Basemap](hardiness_basemap.ipynb)
+1. [Experiments with Mapbox](hardiness_mapbox_scatter.ipynb) (perhaps the most promising one)
+1. [Experiments with Plotly Contour](hardiness_plotly_contour.ipynb)
 
 
 ![](img/emnt_2019_scatter.png)
