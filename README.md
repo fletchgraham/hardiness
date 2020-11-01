@@ -5,11 +5,8 @@
 ## Notebooks
 
 - [Experiments with Basemap](hardiness_basemap.ipynb)
-
 - [Experiments with Plotly Contour](hardiness_plotly_contour.ipynb)
-
 - [Experiments with Mapbox](hardiness_mapbox_scatter.ipynb)
-
 - [Getting the data](grab_data.ipynb)
 
 
