@@ -64,6 +64,8 @@ I'm also looking at [Holoviz Datashader](https://datashader.org/) to potentially
 
 just found this about drawing polygons on a plotly map: https://community.plotly.com/t/draw-polygon-in-mapbox-with-dash-python/34917/5
 
+and if we want to use D3 there is this https://observablehq.com/@d3/geotiff-contours?collection=@d3/d3-contour
+
 
 
 
