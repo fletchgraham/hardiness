@@ -62,6 +62,8 @@ I managed to make such a contour plot on an actual map, but it was using the dep
 
 I'm also looking at [Holoviz Datashader](https://datashader.org/) to potentially solve this problem
 
+just found this about drawing polygons on a plotly map: https://community.plotly.com/t/draw-polygon-in-mapbox-with-dash-python/34917/5
+
 
 
 
