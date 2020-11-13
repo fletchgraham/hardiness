@@ -10,7 +10,7 @@ or see the [notebook used to generate the interactive map](hardiness_mapbox_scat
 
 ## D3 on Observable
 
-There is also an in-progress observable notebook for this map: https://observablehq.com/@fletchgraham/us-plant-hardiness-zones
+There is also an in-progress observable notebook for this map: https://observablehq.com/@fletchgraham/us-plant-hardiness-zones-voronoi
 
 ---
 
