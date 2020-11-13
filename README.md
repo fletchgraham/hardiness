@@ -8,6 +8,11 @@
 
 or see the [notebook used to generate the interactive map](hardiness_mapbox_scatter.ipynb)
 
+## D3 on Observable
+
+There is also an in-progress observable notebook for this map: https://observablehq.com/@fletchgraham/us-plant-hardiness-zones
+
+---
 
 ## Goals
 
@@ -15,8 +20,6 @@ or see the [notebook used to generate the interactive map](hardiness_mapbox_scat
 - The map should reflect the latest available data
 - The map should be interactive
 - *add more constraints here*
-
----
 
 ### What is a Hardiness Zone?
 
